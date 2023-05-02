@@ -32,7 +32,7 @@ APIet indeholder følgende endpoints:
 - /posts
 
 
-Evaluering og bedømmelse:
+## Evaluering og bedømmelse:
 
 Du får en kort kommentar til opgaven og en karakter.
 Faget skal beståes.
