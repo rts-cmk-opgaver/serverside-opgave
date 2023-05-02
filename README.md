@@ -11,7 +11,7 @@ Sitet skal indeholde:
 - minimum 1 client side componenet
 
 
-Der ligger en figma fil i assets mappen
+Der udleveres en figma fil af din lærer.
 
 Filen indeholder følgende views:
 - landing page
